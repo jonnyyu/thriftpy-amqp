@@ -1,0 +1,3 @@
+venv/
+thriftpy_amqp.egg-info/
+*.pyc
